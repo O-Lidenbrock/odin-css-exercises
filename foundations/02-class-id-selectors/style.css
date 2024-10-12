@@ -1,5 +1,5 @@
 .c-one {
-  background-color: lightcoral;
+  background-color: lightpink;
   font-size: 15px;
   font-family: sans-serif;
 }
@@ -10,7 +10,6 @@
 
 #idtwo {
   font-size: 45px;
-  background-color: lightgreen;
   font-family: serif;
   color: blue;
 }
